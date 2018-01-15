@@ -1,0 +1,580 @@
+{
+  "settings": {
+    "name": "agrousadbaderevenskiyray",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "Иконка": "",
+    "noImageResize": "",
+    "versionFirst": "4.5.4",
+    "uniqCompNum": 5,
+    "versionPublish": "4.5.4",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Агроусадьба  \"Домик в деревне\"",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/will-fuller-40930-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Агроусадьба <br>\"Домик в деревне\"",
+          "text": "Усадьба находится в одном из живописнейших мест Беларуси – национальном парке «Беловежская пуща». У нас тишина, нетронутая дикая природа, чистая лесная река, в которой можно купаться и ловить рыбу, леса, богатые грибами и ягодами.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobiriz.store\" data-toolbar=\"-mbrBtnMove\">Скачать для Mac</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "Проживание",
+          "subtitle1": "Агроусадьба \"Домик в деревне\"",
+          "caption1": "Усадьба находится в одном из живописнейших мест Беларуси – национальном парке «Беловежская пуща». У нас тишина, нетронутая дикая природа, чистая лесная река, в которой можно купаться и ловить рыбу, леса, богатые грибами и ягодами.",
+          "title2": "Баня",
+          "subtitle2": "Агроусадьба \"Домик в деревне\"",
+          "caption2": "Усадьба находится в одном из живописнейших мест Беларуси – национальном парке «Беловежская пуща». У нас тишина, нетронутая дикая природа, чистая лесная река, в которой можно купаться и ловить рыбу, леса, богатые грибами и ягодами.",
+          "title3": "Экскурсии",
+          "subtitle3": "Агроусадьба \"Домик в деревне\"",
+          "caption3": "Усадьба находится в одном из живописнейших мест Беларуси – национальном парке «Беловежская пуща». У нас тишина, нетронутая дикая природа, чистая лесная река, в которой можно купаться и ловить рыбу, леса, богатые грибами и ягодами.",
+          "title4": "Велопрогулки",
+          "subtitle4": "Агроусадьба \"Домик в деревне\"",
+          "caption4": "Усадьба находится в одном из живописнейших мест Беларуси – национальном парке «Беловежская пуща». У нас тишина, нетронутая дикая природа, чистая лесная река, в которой можно купаться и ловить рыбу, леса, богатые грибами и ягодами.",
+          "title5": "Красивейшие блоки",
+          "subtitle5": "Выбирайте из огромной коллекции блоков",
+          "caption5": "Mobirise предлагает множество тем, которые включают в себя такие блоки, как слайдеры, галереи, блоки статей, счетчики, блоки с вкладками, видео, анимированным текстом, таблицы с «живыми» фильтрами, магазин, контактные формы, лайтбоксы, отзывы, хронологии, карты, шкалы прогресса и многое другое.",
+          "title6": "Размещайте сайты",
+          "subtitle6": "Не ограничивайтесь только одной платформой",
+          "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-2"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Домик 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dscf8746-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dscf8746-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gopr8980-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gopr8980-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gopr8983-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gopr8983-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gopr8984-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gopr8984-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gopr8986-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gopr8986-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gopr8990-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gopr8990-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0398-2000x1324.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0398-2000x1324-800x529.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16002854-1147754175322303-9094358876747247676-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16002854-1147754175322303-9094358876747247676-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16105627-1147755628655491-3080129369027438655-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16105627-1147755628655491-3080129369027438655-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16106070-1147754191988968-6809262528512743670-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16106070-1147754191988968-6809262528512743670-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16113949-1147754305322290-6497536580434739947-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16113949-1147754305322290-6497536580434739947-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16174712-1147754538655600-3136308586258373404-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16174712-1147754538655600-3136308586258373404-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Домик 2",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16114315-1147754638655590-5064605104733861092-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16114315-1147754638655590-5064605104733861092-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0399-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0399-2000x1325-800x530.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0416-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0416-2000x1325-800x530.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0419-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0419-2000x1325-800x530.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0438-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0438-2000x1325-800x530.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0447-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0447-2000x1325-800x530.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/15978085-1147739505323770-1589710904356411584-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15978085-1147739505323770-1589710904356411584-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Хозяйственный Двор",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16105958-1147739211990466-3952300163604022648-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16105958-1147739211990466-3952300163604022648-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Окресности",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc03461-2000x1324.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03461-2000x1324-800x529.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Окресности",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc03551-2000x1324.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03551-2000x1324-800x529.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Окресности",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc03671-2000x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc03671-2000x480-800x192.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Окресности",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16422406-1167104586720595-1236117788971549679-o-1024x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16422406-1167104586720595-1236117788971549679-o-1024x768-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Баня",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16298359-1160106037420450-3445485193239905274-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16298359-1160106037420450-3445485193239905274-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Баня",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16299304-1160105054087215-1112612843905250770-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16299304-1160105054087215-1112612843905250770-n-720x960-720x960.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Баня",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16423020-1160105807420473-8886042075980487943-o-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16423020-1160105807420473-8886042075980487943-o-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Беседка",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0451-2000x1325.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0451-2000x1325-800x530.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": false
+              },
+              {
+                "tags": "Беседка",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16114436-1147754421988945-7717592117192451114-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16114436-1147754421988945-7717592117192451114-n-960x720-800x600.jpg",
+                "alt": "",
+                "caption": "Введите описание",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "articleLayout": false,
+          "allItem": "Все",
+          "_name": "gallery4",
+          "_anchor": "gallery4-3"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Агроусадьба \"Деревенский рай\", Маковище, Брестская область, Беларусь",
+              "placeId": "ChIJLeQ5scBQIEcRY-2eKWIeNOU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Адрес</strong><br>Агроусадьба \"Домик в деревне\" <br>Каменецкий район деревня Маковище&nbsp;<br><br><br>\n<strong>Контакты</strong><br>Телефоны: +375295739747<br> +375445719995 <br>Email: lutz_ne@mail.ru <br>Спальных мест: 12 <br>180 000 Р. за человека<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Забронировать</b></span></font></p><ul><li><a href=\"https://www.messenger.com/t/agrousadbaderevenskiyray\">Facebook</a></li><li>Telegram</li><li>Viber</li><li><a href=\"http://www.booking.com/hotel/by/agrousadba-derevenskiy-ray.ru.html#availability\">Booking</a></li></ul>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-4"
+        }
+      ]
+    }
+  }
+}
