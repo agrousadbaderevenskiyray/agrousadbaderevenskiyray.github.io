@@ -88,7 +88,7 @@
           "_params": {
             "showImages": false,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "#f2f2f2",
@@ -566,8 +566,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Адрес</strong><br>Агроусадьба \"Домик в деревне\" <br>Каменецкий район деревня Маковище&nbsp;<br><br><br>\n<strong>Контакты</strong><br>Телефоны: +375295739747<br> +375445719995 <br>Email: lutz_ne@mail.ru <br>Спальных мест: 12 <br>180 000 Р. за человека<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Забронировать</b></span></font></p><ul><li><a href=\"https://www.messenger.com/t/agrousadbaderevenskiyray\">Facebook</a></li><li>Telegram</li><li>Viber</li><li><a href=\"http://www.booking.com/hotel/by/agrousadba-derevenskiy-ray.ru.html#availability\">Booking</a></li></ul>",
+          "text1": "<strong>Адрес</strong><br>Агроусадьба \"Домик в деревне\" <br>Каменецкий район деревня Маковище&nbsp;<br><br><br>\n<strong>Контакты</strong><br>Телефоны: <a href=\"tel:+375444950545\">+375444950545</a>&nbsp;<br>Email: <a href=\"mailto:lutz_ne@mail.ru\">lutz_ne@mail.ru</a> <br>Спальных мест: 12 <br>180 000 белорусских рублей за человека<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Roboto, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Забронировать</b></span></font></p><ul><li><a href=\"https://www.messenger.com/t/agrousadbaderevenskiyray\">Facebook</a></li><li><a href=\"https://web.telegram.org/#/im?p=u455794788_12270485136021719374\">Telegram</a></li><li><a href=\"http://www.booking.com/hotel/by/agrousadba-derevenskiy-ray.ru.html#availability\">Booking</a></li></ul>",
           "_tags": [
             "Тема"
           ],
